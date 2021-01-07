@@ -22,7 +22,7 @@ logGreeting();
 // Remember, this function should return the string -- not print it.
 // Then print your name in the console by passing getName() into the console.log() function. 
 function getName(){
-    return "Yingjie";
+    return "Yingjie Wang";
 }
 console.log(getName());
 

@@ -31,4 +31,5 @@ One device find another through DNS and TCP/IP.
 16.What methods do devices on the internet use to communicate?
 The internet methods communicate through TCP/IP protocols and http. 
 17.How can we send data reliably even if the network is unreliable?
-TCP. It stays connected forever. 
+It's TCP. It stays connected forever. 
+

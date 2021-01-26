@@ -2,6 +2,11 @@ body {
     background-color:blanchedalmond
 }
 
-h3{
+h3 {
     color: rgb(35, 182, 187);
+}
+
+h1 {
+    font-family: 'Original Surfer', cursive;
+    font-size:xx-large;
 }

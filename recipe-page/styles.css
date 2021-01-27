@@ -1,27 +1,33 @@
 body {
-    background-color:blanchedalmond
+    background-color:beige;
 }
 
-h3 {
-    color: rgb(35, 182, 187);
-}
-
-h1 {
+h1, h3 {
+    color: rgb(235, 91, 8);
     font-family: 'Original Surfer', cursive;
-    font-size:xx-large;
+}
+
+.top {
+    margin-left: 20px;
 }
 
 .description {
     width: 600px;
+    font-family:'Lato',sans-serif;
 }
 
 .left {
     width: 600px;
     float:left; 
-    margin-top: 23px;
+    margin-top: 8px;
+    margin-left: 20px;
+    font-family: 'Lato',sans-serif;
 }
+
+
 .right {
     width: 600px;
-    float:left;
+    float: left;
     margin-left: 30px;
+    font-family: 'Lato',sans-serif;
 }

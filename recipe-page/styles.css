@@ -28,3 +28,9 @@ h1, h3 {
     margin-left: 30px;
     font-family: 'Lato',sans-serif;
 }
+
+.container-fluid {
+    background-color: burlywood;
+}
+
+
